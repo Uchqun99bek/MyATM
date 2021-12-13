@@ -1,4 +1,4 @@
 ##Salom 
 *8
 - ---
-pdp.uz(https/pdp/uz)
+pdp.uz[https/pdp/uz]

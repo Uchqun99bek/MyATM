@@ -1,4 +1,4 @@
 # MyATM
 MYPOJECT
 
-pdp.uz(https://pdp.uz/)
+pdp.uz[https://pdp.uz/]
